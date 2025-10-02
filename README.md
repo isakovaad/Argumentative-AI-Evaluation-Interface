@@ -1,6 +1,6 @@
 # Argumentative AI Evaluation Interface
 
-This tool is designed as a example work for the PhD position developing evaluation frameworks for reasoning in Argumentative AI at the University of St.Gallen:
+This tool is designed as an example work for the PhD position developing evaluation frameworks for reasoning in Argumentative AI at the University of St.Gallen:
 
 - **PhD Research**: Evaluating LLM reasoning quality in argumentative AI
 - **User Studies**: Collecting expert annotations for training data
