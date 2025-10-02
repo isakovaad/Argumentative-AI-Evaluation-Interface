@@ -5,7 +5,6 @@ const ArgumentEvaluator = () => {
   const [activeTab, setActiveTab] = useState('annotate');
   const [selectedText, setSelectedText] = useState('');
   const [annotations, setAnnotations] = useState([]);
-  const [comparisonMode, setComparisonMode] = useState(false);
   const [ratings, setRatings] = useState({
     logical_validity: 0,
     clarity: 0,
