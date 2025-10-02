@@ -2,11 +2,7 @@
 
 This tool is designed as an example work for the PhD position developing evaluation frameworks for reasoning in Argumentative AI at the University of St.Gallen:
 
-- **PhD Research**: Evaluating LLM reasoning quality in argumentative AI
-- **User Studies**: Collecting expert annotations for training data
-- **Model Comparison**: Systematic comparison of different AI models
-- **Quality Benchmarking**: Establishing evaluation standards
-- **Annotation Campaigns**: Large-scale data collection for AI research
+https://github.com/user-attachments/assets/628674be-cb50-40a0-be81-5a2c60e26362
 
 ## Overview
 
