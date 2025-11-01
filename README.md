@@ -44,12 +44,6 @@ This project provides an interactive platform for:
 - **Model Switching**: Seamlessly switch between evaluating different models
 - **Clear & Reset**: Remove annotations to start fresh
 
-## Prerequisites
-
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- No installation or dependencies required
-- Internet connection (for loading React and Tailwind CDN)
-
 ## Installation & Setup
 
 ### Option 1: Direct HTML File (Easiest)
