@@ -33,7 +33,7 @@ This project provides an interactive platform for:
 - **Quality Indicators**: Visual color-coding (green/yellow/red) based on performance
 - **Detailed Breakdown**: View individual rating dimensions for each model
 
-### 4. Argument Structure Visualization
+### 4. Argument Structure Visualization 
 - **Interactive Graph**: Visual representation of premises and conclusions 
 - **Logical Connections**: See how premises support conclusions
 - **Component Statistics**: Summary of argument structure elements
