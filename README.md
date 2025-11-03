@@ -13,7 +13,7 @@ This project provides an interactive platform for:
 - Visualizing argument structure as connected graphs
 - Exporting evaluation data for further analysis
 
-## Features
+## Features 
 
 ### 1. Annotation Interface
 - **Text Selection & Labeling**: Highlight text segments and classify them as premises, conclusions, evidence, fallacies, or warrants
