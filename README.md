@@ -20,7 +20,7 @@ This project provides an interactive platform for:
 - **Real-time Annotation Display**: View all annotations with color-coded categories
 - **Annotation Counter**: Track the number of annotations made
 
-### 2. Multi-Dimensional Rating System
+### 2. Multi-Dimensional Rating System 
 - **Logical Validity**: Assess the soundness of reasoning
 - **Clarity**: Evaluate how clearly the argument is expressed 
 - **Relevance**: Rate the pertinence to the topic
