@@ -24,7 +24,7 @@ This project provides an interactive platform for:
 - **Logical Validity**: Assess the soundness of reasoning
 - **Clarity**: Evaluate how clearly the argument is expressed 
 - **Relevance**: Rate the pertinence to the topic
-- **Evidence Quality**: Judge the strength of supporting evidence
+- **Evidence Quality**: Judge the strength of supporting evidence 
 - **Automatic Average Calculation**: Real-time computation of overall quality score
 
 ### 3. Model Comparison
