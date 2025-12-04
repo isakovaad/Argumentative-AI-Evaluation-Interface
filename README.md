@@ -4,7 +4,7 @@ This tool is designed as an example work for the PhD position developing evaluat
 
 https://github.com/user-attachments/assets/628674be-cb50-40a0-be81-5a2c60e26362
 
-## Overview
+## Overview 
  
 This project provides an interactive platform for: 
 - Annotating argument components (premises, conclusions, evidence, fallacies, warrants)
