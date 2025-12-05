@@ -11,7 +11,7 @@ This project provides an interactive platform for:
 - Rating argument quality across multiple dimensions
 - Comparing evaluations between different AI models
 - Visualizing argument structure as connected graphs
-- Exporting evaluation data for further analysis
+- Exporting evaluation data for further analysis 
 
 ## Features 
 
