@@ -108,7 +108,7 @@ Visit http://localhost:5173
    - View annotations in the right panel
 4. **Rate Quality**: Use the 1-5 rating scales for each dimension
 5. **Save Progress**: Click "Save Progress" to store your evaluation
-6. **Switch Models**: Evaluate the second model using the same process
+6. **Switch Models**: Evaluate the second model using the same process 
 
 ### Comparing Models
 
